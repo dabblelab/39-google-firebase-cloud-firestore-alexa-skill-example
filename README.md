@@ -1,5 +1,6 @@
 # 39-alexa-firebase-cloud-firestore-example
 This example illustrates binding up Firebase Cloud Firestore with an Alexa Skill
+
 [![Custom badge](https://img.shields.io/endpoint?url=https://badges-shields-io-88j4y07yzimq.runkit.sh)](https://deploy.dabble.dev/deploy/v2/dochwcfuey)
 
 #### Step 1  

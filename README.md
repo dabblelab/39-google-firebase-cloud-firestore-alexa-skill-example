@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/dabblelab/amazon-comprehend-medical-diagnosis-example-alexa-skill/main/image.png)
+![](https://raw.githubusercontent.com/dabblelab/39-alexa-firebase-cloud-firestore-example/main/image.png)
 
 # Google Firebase Cloud Firestore - Alexa Skill Template
 
